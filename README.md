@@ -30,12 +30,6 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB">
 </p>
 
-<h2 align="center">Projetos Destacados:</h2>
-
-<p align="center">
-  
-No momento não possuo nenhum projeto publico! 
-
 
 <h2 align="center">Entre em Contato:</h2>
 
