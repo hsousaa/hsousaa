@@ -20,7 +20,7 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo.png" alt="external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo.png" alt="external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo"/>
 </p>
 
 <h2 align="center">Habilidades de Banco de Dados:</h2>
