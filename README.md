@@ -11,7 +11,7 @@
 <h2 align="center">Sobre mim:</h2>
 
 <p align="center">
-  Sou um desenvolvedor iniciante, apaixonado por programar, tenho maior experiencia em C++, estou em processo de aprendizado nas linguagens: Css e Python.
+  Sou um desenvolvedor iniciante, apaixonado por programar, tenho maior experiencia em C++, estou em processo de aprendizado nas linguagens: Python.
 </p>
 
 <h2 align="center">Habilidades de Codificação:</h2>
