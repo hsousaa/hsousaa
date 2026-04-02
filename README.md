@@ -34,8 +34,7 @@
 
 <p align="center">
   Numero: 21 97234-0019
-  Email: hsousaa9@gmail.com
-  📧 Email: xwdilma@gmail.com
+  📧 Email: hsousaa9@gmail.com
 </p>
 
 
