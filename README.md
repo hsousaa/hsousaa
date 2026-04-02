@@ -19,9 +19,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js">
 </p>
 
 <h2 align="center">Habilidades de Banco de Dados:</h2>
